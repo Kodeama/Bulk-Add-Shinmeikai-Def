@@ -1,0 +1,18 @@
+{
+  "debug": false,
+  "overwriteInputFile": false,
+
+  "inputFileName": "input.txt",
+  "outputFileName": "output.txt",
+
+  "wordFreqList": "Data\\10kData.txt",
+  "kanjiList": "Data\\HeisigKeywords.txt",
+
+  "cardReadFieldIndex": 6,
+  "cardWriteFieldIndex": 7,
+
+  "numberOfDefinitions": 3,
+
+  "enableRTKKeywords": true,
+  "kanjiField": 8
+}
